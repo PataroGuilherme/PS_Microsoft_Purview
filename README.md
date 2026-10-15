@@ -1,2 +1,2 @@
-# 🔷 PowerShell scripts for Microsoft Purview
+# 🟢 PowerShell scripts for Microsoft Purview
 👤 User: Guilherme Pataro
